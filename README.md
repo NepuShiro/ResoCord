@@ -8,7 +8,8 @@ To use the companion item in Resonite:
 
 1. Spawn the item using the following link in Resonite:
    ```
-   resrec:///U-NepuShiro/R-fd60454a-2120-4536-a11c-c3f0aa4f4656
+   NepuShiro's Public > Tools > ResoCord 1.0.0
+   resrec:///U-NepuShiro/R-38b577c8-c87e-4584-aa5f-12020c931731
    ```
 
 2. Once spawned, you need to configure the WebSocket URLs:
